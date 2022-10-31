@@ -17,6 +17,9 @@ This is a screenshot of KaseiCoinCrowdsale contract compiling succesfully
 
 Compiled KaseiCoinDeployer contract compiling succesfully
 
+<img width="1438" alt="3 contracts deployed" src="https://user-images.githubusercontent.com/106558893/199085760-2f9b7433-202d-402e-8663-73b732e7e984.png">
+
+The deployment of all 3 contracts
 
 ---
 
