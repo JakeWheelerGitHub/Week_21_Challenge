@@ -9,7 +9,11 @@ The purpose of this challenge is to create a fungible token that is ERC-20 compl
 
 This is a screenshot of KaseiCoin.sol contract compiling succesfully 
 
+<img width="1440" alt="Compiled KaseiCoinCrowdsale" src="https://user-images.githubusercontent.com/106558893/199079149-eb3ba79a-3577-4246-ab6c-0af8ae17fe69.png">
+
 This is a screenshot of KaseiCoinCrowdsale contract compiling succesfully
+
+<img width="1440" alt="Compiled KaseiCoinDeployer" src="https://user-images.githubusercontent.com/106558893/199079247-b4af63da-7cf9-4004-8249-0438c9c6b0c9.png">
 
 Compiled KaseiCoinDeployer contract compiling succesfully
 
