@@ -30,6 +30,10 @@ Buying tokens with a value of 10000 wei to address 0x20E2b572bDA431188e0323061eD
 
 Confirmation of buying tokens
 
+<img width="1440" alt="Check balance" src="https://user-images.githubusercontent.com/106558893/199091789-a70beac2-5ab8-43d4-8421-bf81a38f2014.png">
+
+Checking the balance after buying tokens
+
 ---
 
 ## Technologies
