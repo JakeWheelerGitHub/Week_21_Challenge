@@ -5,6 +5,8 @@ The purpose of this challenge is to create a fungible token that is ERC-20 compl
 
 ## Evaluation Evidence
 
+<img width="1438" alt="Compiled KaseiCoin" src="https://user-images.githubusercontent.com/106558893/199079002-ef8a8f01-ee2c-431f-a05b-7fbb91384302.png">
+
 This is a screenshot of KaseiCoin.sol contract compiling succesfully 
 
 This is a screenshot of KaseiCoinCrowdsale contract compiling succesfully
